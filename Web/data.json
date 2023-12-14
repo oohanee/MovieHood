@@ -1,0 +1,102 @@
+[
+    {
+        "id":"1", 
+        "judul":"Wednesday",  
+        "informasi_film":"Wednesday adalah serial televisi komedi horor Amerika Serikat yang diproduksi pada tahun 2022. Serial ini dibuat oleh Alfred Gough dan Miles Millar, dibintangi Jenna Ortega sebagai karakter utama." ,
+        "sinopsis":"Wednesday merupakan seorang anak gadis SMA yang berasal dari keluarga super mistis. Ia memiliki adik lelaki bernama Pugsley Addams  yang lemah sehingga kerap dirundung. Tidak terima, Wednesday melancarkan aksi balas dendam dengan sadis membuat ia dikeluarkan dari sekolah. Tak hilang akal, Ibu Wednesday yakni Morticia  dan Ayahnya, Gomez akhirnya membawa Wednesday ke sekolah ‘buangan’ bernama Nevermore Academy yang diisi oleh banyak manusia ‘spesial’. Namun Wednesday tidak kerasan dan berniat kabur, tetapi usahanya ini selalu saja gagal", 
+        "trailer":"https://youtu.be/Di310WS8zLk",
+        "genre":["Comedy", "Coming of Age", "Family", "Fantasy", "Horror", "Supernatural"],
+        "tahun":"2022",
+        "foto":"wednesday.jpeg"
+    },
+    {
+        "id":"2", 
+        "judul":"Stranger Things",  
+        "informasi_film":"Stranger Things adalah serial televisi web fiksi ilmiah, Fantasi,Horor dari Amerika Serikat." ,
+        "sinopsis":"Terjadi hal-hal aneh di sebuah kota yaitu Hawkins, Indiana. Mengungkap misteri yang melibatkan eksperimen, kekuatan supranatural yang menakutkan, khususnya hubungan mereka dengan realitas alternatif yang disebut Upside Down, hal tersebut muncul akibat fasilitas eksperimen anak pemerintah Amerika Serikat.. Dimana seorang anak laki-laki tiba-tiba menghilang. Dan beberapa temannya menemukan seorang gadis kecil yang aneh dengan mempunyai kekuatan dunia lain.", 
+        "trailer":"https://youtu.be/b9EkMc79Z",
+        "genre":["Fiksi ilmiah", "fantasy", "horror", "misteri"],
+        "tahun":"2016",
+        "foto":"stranger things.jpg"
+    },
+    {
+        "id":"3", 
+        "judul":"The Big 4",  
+        "informasi_film":"Stranger Things adalah serial televisi web fiksi ilmiah, Fantasi,Horor dari Amerika Serikat." ,
+        "sinopsis":"Seorang detektif yang dikenal lurus menyelidiki kematian ayahnya dan mengikuti jejak hingga ke sebuah pulau tropis. Di sana, ia menemukan jati diri sesungguhnya sang ayah sebagai pemimpin kelompok pembunuh bayaran. Kini, ia dikejar musuh ayahnya, sehingga ia terpaksa bekerja sama dengan murid ayahnya terdahulu—empat mantan pembunuh bayaran yang siap kembali membasmi musuh.", 
+        "trailer":"https://youtu.be/yiTs7bxUc-s",
+        "genre":["comedy", "thriller"],
+        "tahun":"2022",
+        "foto":"the big 4.jpeg"
+    }, 
+    {
+        "id":"4", 
+        "judul":"Money Heist : Korea",  
+        "informasi_film":"Serial televisi Korea dan seri kedua dalam Money Heist Franchise, berdasarkan serial asli dari Spanyol." ,
+        "sinopsis":"Serial ini mengikuti alur cerita dan karakter dari seri asli Spanyol. Profesor (Yoo Ji-tae), seorang dalang kriminal ahli strategi, berencana melakukan perampokan di Semenanjung Korea, operasi tersebut melibatkan ahli strategi dan penjahat dengan karakteristik dan kemampuan berbeda, yang harus menghadapi situasi yang tidak biasa. Pencuri menyalip permen Korea yang bersatu. Dengan sandera yang terperangkap di dalam, polisi harus menghentikan mereka, serta dalang operasi tersebut.", 
+        "trailer":"https://youtu.be/Uafg97czxeQ",
+        "genre":["perampokan", "criminal"],
+        "tahun":"2017",
+        "foto":"money heist.jpg"
+    },
+    {
+        "id":"5", 
+        "judul":"Kukira Kau Rumah",  
+        "informasi_film":"Kukira Kau Rumah adalah film drama psikologis Indonesia tahun 2021 yang disutradarai oleh Umay Shahab." ,
+        "sinopsis":"Setelah jatuh dari atap rumah dan membentur kepalanya, sikap Niskala Widiatmika berubah, dengan pergantian emosi secara drastis dan konstan. Saat remaja, ia terdiagnosa gangguan bipolar. Ini membuat ayahnya, Dedi, terlalu protektif, sehingga Niskala tidak bisa melanjutkan sekolah dan hanya bisa bergaul dengan Dinda dan Oktavinus, teman-temannya sejak kecil yang bisa Dedi percaya.", 
+        "trailer":"https://youtu.be/yLIY-yaF9tE",
+        "genre":["Romance"],
+        "tahun":"2021",
+        "foto":"kukira kau rumah.jpg"
+    },
+    {
+        "id":"6", 
+        "judul":"Happiness",  
+        "informasi_film":"Happiness adalah seri televisi Korea Selatan tahun 2021 yang dibintangi oleh Han Hyo-joo, Park Hyung-sik, dan Jo Woo-jin.  " ,
+        "sinopsis":"Berlatar pada masa dimana penyakit menular telah menjadi hal baru. Di sebuah apartemen yang baru dibangun di kota besar, dimana lantai atas untuk penjualan umum dan lantai bawah disewakan, seri ini menggambarkan pertempuran psikologis yang halus dan diskriminasi kelas yang terjadi. Kota ini mencapai titik terendah ketika kiamat yang akan datang menyerang dalam bentuk penyakit menular jenis baru di mana orang-orang menderita kehausan yang tak kunjung reda.", 
+        "trailer":"https://youtu.be/G2EiCIyY54I",
+        "genre":["Thriller"],
+        "tahun":"2021",
+        "foto":"happiness.png"
+    },
+    {
+        "id":"7", 
+        "judul":"Sayap-Sayap Patah",  
+        "informasi_film":"Sayap Sayap Patah adalah sebuah film drama laga Indonesia tahun 2022 yang disutradarai oleh Rudi Soedjarwo. Film Sayap Sayap Patah diangkat dari peristiwa kerusuhan di Mako Brimob pada 2018 yang menewaskan 5 anggota Densus 88. Aktivis sosial media dan penulis Denny Siregar, selaku produser eksekutif film ini, berharap supaya tragedi tersebut tetap diingat sebagai sejarah." ,
+        "sinopsis":"Adji (Nicholas Saputra) dan Nani (Ariel Tatum) merupakan sepasang suami istri yang hidup bahagia. Kebahagiaan itu semakin lengkap ketika Nani diketahui hamil. Seiring waktu berjalan, kandungan Nani semakin membesar. Namun, Adji tidak selalu bisa menemani Nani karena pekerjaannya sebagai personel kepolisian, yang harus siaga saat dibutuhkan untuk bertugas.Pada suatu hari, terdapat sebuah rumah tahanan yang dibobol oleh para tahanan, hingga memicu kerusuhan besar. Mereka melakukan penyerangan kepada para petugas. Adji dan rekan-rekan kerjanya segera bertindak untuk meredam gejolak yang ada. Namun, tidak semua tahanan bisa diatasi.", 
+        "trailer":"https://youtu.be/8FaipUPrZ_Y",
+        "genre":["Romance"],
+        "tahun":"2022",
+        "foto":"sayap-sayap patah.jpg"
+    },
+    {
+        "id":"8", 
+        "judul":"A Business Proposal",  
+        "informasi_film":"business proposal adalah seri televisi komedi romantis Korea Selatan yang didasarkan pada webtoon berjudul sama yang ditulis oleh HaeHwa dan diilustrasikan oleh Narak." ,
+        "sinopsis":"Shin Ha-ri (Kim Se-jeong) melakukan kencan buta dengan menyamar sebagai temannya dengan tujuan 'ditolak' oleh calon pasangan temannya. Tapi rencana menjadi kacau ketika orang yang dia temui ternyata adalah Kang Tae-mu (Ahn Hyo-seop) –CEO perusahaan tempat Ha-ri bekerja.", 
+        "trailer":"https://youtu.be/M-PHcxPyasA",
+        "genre":["Romance"],
+        "tahun":"2022",
+        "foto":"a-business-proposal.jpeg"
+    },
+    {
+        "id":"9", 
+        "judul":"Miracle In Cell ",  
+        "informasi_film":"Miracle in Cell No. 7 adalah film drama keluarga Indonesia tahun 2022 yang disutradarai oleh Hanung Bramantyo[1][2] dibuat ulang dari film Korea Selatan tahun 2013 berjudul sama." ,
+        "sinopsis":"Dodo Rozak hanya ingin menjadi ayah yang baik bagi anaknya, Kartika, sekalipun dia hanyalah pria dengan kecerdasan terbatas, bertingkah dan berperilaku seperti anak-anak. Pada kenyataannya, justru Kartika yang lebih sering menjaga dan merawat ayahnya. Tapi keduanya hidup bahagia. Kartika bangga pada ayahnya yang berjualan balon sehari-harinya", 
+        "trailer":"https://youtu.be/0uf6QUacVgs",
+        "genre":["Drama"],
+        "tahun":"2022",
+        "foto":"miracle in cell.jpg"
+    },
+    {
+        "id":"10", 
+        "judul":"Jalan yang Jauh Jangan Lupa Pulang",  
+        "informasi_film":"Jalan yang Jauh, Jangan Lupa Pulang adalah sebuah film drama Indonesia tahun 2023 yang disutradarai oleh Angga Dwimas Sasongko. Film ini merupakan sekuel dari Nanti Kita Cerita tentang Hari Ini (2020)." ,
+        "sinopsis":"Di London, kota yang bagi Aurora penuh harapan dan berjuta kemungkinan untuk wujudkan impian, Ia menemukan tambatan hati yang memiliki visi yang sejalan dengannya, Jem (Ganindra Bimo). Seniman baru yang sedang naik daun sekaligus senior di kampusnya itu juga merupakan perantau dari Indonesia. Kehidupan Aurora terasa sempurna dan penuh gairah. Sampai ia menemukan sisi lain Jem yang terpaksa membuat Aurora mengorbankan kuliah serta meninggalkan mimpinya begitu saja. Dalam masa sulitnya, Aurora dibantu kedua sahabatnya,Honey (Lutesha) dan Kit (Jerome Kurnia) untuk tinggal bersama di apartemen mereka. Kesibukan Aurora untuk bertahan hidup dan mengupayakan kembali kuliahnya dengan bekerja serabutan membuatnya putus kontak dengan keluarga. Dua bulan tanpa kabar membuat Angkasa (Rio Dewanto) dan Awan (Rachel Amanda) menyusul Aurora ke London. Terkejut dengan kondisi Aurora yang berantakan, ditambah kenyataan bahwa ia mengubur mimpi-mimpi yang terpaksa hancur akibat kekerasan mental yang dilakukan Jem padanya, Angkasa dan Awan sepakat memaksa Aurora pulang. Namun, apakah pulang merupakan jawaban dari perjalanan panjang Aurora?", 
+        "trailer":"https://youtu.be/RX_F6AoQphc",
+        "genre":["Romance"],
+        "tahun":"2023",
+        "foto":"jalan yang jauh jangan lupa pulang.jpg"
+    }
+]

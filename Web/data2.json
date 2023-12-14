@@ -1,0 +1,281 @@
+[
+    {
+      "id": "01",
+      "judul": "Extreme Job",
+      "rating": "7.0",
+      "durasi": "1j 51m",
+      "tahun": "2019",
+      "genre": "Comedy",
+      "negara": "Korea Selatan",
+      "poster": "ej.jpg",
+      "deskripsi": "Tim detektif bagian narkotika tengah menyamar di kedai ayam goreng demi mengintai geng penjahat. Situasi jadi tak terkendali ketika resep ayam detektif mengubah restoran kumuh menjadi restoran ayam paling laris di kota."
+    },
+    {
+      "id": "02",
+      "judul": "Now You See Me",
+      "rating": "7.2",
+      "durasi": "1j 55m",
+      "tahun": "2013",
+      "genre": "Thriller",
+      "negara": "Amerika",
+      "poster": "nysm.jpg",
+      "deskripsi": "4 pesulap mendapatkan undangan misterius. 1 tahun kemudian, mereka tampil ke publik sebagai Four Horsemen, ilusionis papan atas yang mengadakan show di Las Vegas. Kali ini, mereka akan 'mencuri' uang dari bank. Tentu saja interpol dan F.B.I tidak akan tinggal diam."
+    },
+    {
+      "id": "03",
+      "judul": "Midnight Runners",
+      "rating": "7.3",
+      "durasi": "1j 49m",
+      "tahun": "2017",
+      "genre": "Comedy",
+      "negara": "Korea Selatan",
+      "poster": "mr.jpg",
+      "deskripsi": "Film ini menceritakan kisah Ki-joon dan Hee-yeol sebagai murid di akademi kepolisian. Mereka berdua bekerjasama untuk menelusuri kasus penculikan yang tak sengaja terjadi di depan mata mereka."
+    },
+    {
+      "id": "04",
+      "judul": "Till We Meet Again",
+      "rating": "6.7",
+      "durasi": "2j 8m",
+      "tahun": "2021",
+      "genre": "Fantasy",
+      "negara": "Taiwan",
+      "poster": "twma.jpg",
+      "deskripsi": "Ah-Lun adalah dewa cinta dalam mitologi Tiongkok. Saat sedang bertugas di Bumi, tantangan terbesarnya adalah mengikat tali merah untuk wanita yang paling dia cintai dengan pria lain."
+    },
+    {
+      "id": "05",
+      "judul": "The Map of Tiny Perfect Things",
+      "rating": "6.8",
+      "durasi": "1j 38m",
+      "tahun": "2021",
+      "genre": "Romance",
+      "negara": "Amerika",
+      "poster": "tmotpt.jpg",
+      "deskripsi": "Dua remaja yang tak saling mengenal tiba-tiba terperangkap dalam time loop, dimana mereka selalu mengulangi satu hari yang sama. Lambat laun mereka pun saling jatuh cinta, sambil mencari jalan untuk keluar dari lingkaran setan ini."
+    },
+    {
+      "id": "06",
+      "judul": "Upside Down",
+      "rating": "6.3",
+      "durasi": "1j 49m",
+      "tahun": "2012",
+      "genre": "Fantasy",
+      "negara": "Kanada",
+      "poster": "ud.jpg",
+      "deskripsi": "Adam dan Eden saling jatuh cinta meskipun faktanya mereka hidup di dunia kembar dengan gravitasi yang menarik ke arah yang berlawanan. 10 tahun setelah perpisahan paksa, Adam mulai mencari Eden untuk menyatukan cinta mereka."
+    },
+    {
+      "id": "07",
+      "judul": "Orphan",
+      "rating": "7.0",
+      "durasi": "2j 3m",
+      "tahun": "2009",
+      "genre": "Thriller",
+      "negara": "Amerika",
+      "poster": "orphan.jpg",
+      "deskripsi": "Sepasang suami istri baru saja kehilangan bayinya. Mereka lalu mengadupsi gadis cilik berusia 9 tahun. tak disangka, gadis itu ternyata tak sepolos yang mereka kira."
+    },
+    {
+      "id": "08",
+      "judul": "Seoul Vibe",
+      "rating": "5.5",
+      "durasi": "2j 18m",
+      "tahun": "2022",
+      "genre": "Comedy",
+      "negara": "Korea Selatan",
+      "poster": "sv.jpg",
+      "deskripsi": "Pada hari-hari jelang Olimpiade Seoul 1988, sebuah tim eksentrik yang terdiri dari beberapa pembalap dan mekanik menyamar demi membongkar jaringan raksasa pencucian uang."
+    },
+    {
+      "id": "09",
+      "judul": "On Your Wedding Day",
+      "rating": "7.0",
+      "durasi": "1j 50m",
+      "tahun": "2018",
+      "genre": "Romance",
+      "negara": "Korea Selatan",
+      "poster": "oywd.jpg",
+      "deskripsi": "Apa yang akan kamu lakukan jika mendapat undangan pernikahan dari cinta pertamamu di SMA? Itulah yang dirasakan Hwang Woo Yun, yang diberikan undangan oleh Hwan Seung Hee."
+    },
+    {
+      "id": "10",
+      "judul": "Ada Apa dengan Cinta?",
+      "rating": "7.7",
+      "durasi": "1j 52m",
+      "tahun": "2002",
+      "genre": "Romance",
+      "negara": "Indonesia",
+      "poster": "aadc.jpg",
+      "deskripsi": "Cinta adalah seorang gadis populer yang pintar. Kesehariannya mulai berubah ketika ia bertemu dengan Rangga, cowok pendiam di sekolahnya. Lama-lama, hubungan keduanya makin dekat. Nmaun, ada saja aral melintang yang harus mereka lewati. Lalu, bagaimana nasib hubungan mereka?"
+    },
+    {
+      "id": "11",
+      "judul": "Bumi Manusia",
+      "rating": "6.8",
+      "durasi": "3j 1m",
+      "tahun": "2019",
+      "genre": "Drama",
+      "negara": "Indonesia",
+      "poster": "bm.jpg",
+      "deskripsi": "Minke adalah seorang pemuda pribumi yang cerdas dan tampan. Ia berkenalan dan jatuh hati pada Annelies yang merupakan gadis keturunan Indo-Belanda. Bak gayung bersambut, cinta Minke dibalas Annelies. Bagaimana kelanjutan kisah mereka? Akankah keduanya bersatu?"
+    },
+    {
+      "id": "12",
+      "judul": "Innocent Witness",
+      "rating": "7.4",
+      "durasi": "2j 9m",
+      "tahun": "2019",
+      "genre": "Drama",
+      "negara": "Korea Selatan",
+      "poster": "iw.jpg",
+      "deskripsi": "Mi Ran, seorang ART, dituduh membunuh majikannya, lelaki paruh baya yang ditemukan tewas. Satu-satunya saksi kejadian itu adalah Ji Woo, gadis remaja yang mengidap Asperger."
+    },
+    {
+      "id": "13",
+      "judul": "Interstellar",
+      "rating": "8.7",
+      "durasi": "2j 49m",
+      "tahun": "2014",
+      "genre": "Fantasy",
+      "negara": "Amerika",
+      "poster": "int.jpg",
+      "deskripsi": "Ketika sebuah tim penjelajah luar angkasa melakukan perjalanan antar planet untuk menemukan planet baru bagi kelangsungan hidup umat manusia."
+    },
+    {
+      "id": "14",
+      "judul": "Ouija",
+      "rating": "4.5",
+      "durasi": "1j 29m",
+      "tahun": "2014",
+      "genre": "",
+      "negara": "Amerika",
+      "poster": "ouija.png",
+      "deskripsi": "Seorang gadis terbunuh setelah bermain dengan Papan Ouija kuno. Melihat rekaman amatir atas kematian gadis itu, sekelompok teman pun berniat menyelidiki Ouija tersebut dengan memainkannya."
+    },
+    {
+      "id": "15",
+      "judul": "Nanti Kita Cerita Tentang Hari Ini",
+      "rating": "7.4",
+      "durasi": "2j 1m",
+      "tahun": "2020",
+      "genre": "Drama",
+      "negara": "Indonesia",
+      "poster": "nkcthi.jpg",
+      "deskripsi": "Awan memiliki keluarga yang harmonis. Namun ia lebih diperhatikan dan disayang oleh orangtuanya ketimbang kedua kakaknya. Hal tersebut memunculkan konflik di dalam keluarga mereka. Hidup Awan pun bertambah rumit ketika ia berkenalan dengan Kale. Apa yang akan terjadi pada Awan?"
+    },
+    {
+      "id": "16",
+      "judul": "Petualangan Sherina",
+      "rating": "7.8",
+      "durasi": "1j 52m",
+      "tahun": "2000",
+      "genre": "Comedy",
+      "negara": "Indonesia",
+      "poster": "ps.jpg",
+      "deskripsi": "Sherina adalah gadis kecil yang aktif, dirinya punya banyak teman. Intinya, kehidupan Sherina di Jakarta benar-benar penuh warna, namun semua menjadi redup ketika Ayah Sherina harus pindah ke Bandung akibat pindah kerjaan sebagai ahli agronomis di perkebunan."
+    },
+    {
+      "id": "17",
+      "judul": "Yaksha: Ruthless Operations",
+      "rating": "6.2",
+      "durasi": "2j 5m",
+      "tahun": "2022",
+      "genre": "Action",
+      "negara": "Korea Selatan",
+      "poster": "yro.jpg",
+      "deskripsi": "Saat bertugas di kota berbahaya untuk menyelidiki tim Operasi Rahasia dan pemimpinnya yang tersohor, jaksa terhormat ini terjun ke dalam perang mematikan antarmata-mata."
+    },
+    {
+      "id": "18",
+      "judul": "Miracle in Cell No. 7",
+      "rating": "8.1",
+      "durasi": "2j 7m",
+      "tahun": "2013",
+      "genre": "Drama",
+      "negara": "Korea Selatan",
+      "poster": "micn.jpg",
+      "deskripsi": "Lee Yong Go memiliki masalah kecerdasan karena gangguan mental. Kini, dia hidup seorang diri dengan putrinya, Ye Sung. Suatu hari ada insiden yang menewaskan anak seusia putrinya, dan Yong Go dipaksa untuk mengaku bersalah akan hal yang tidak dia lakukan."
+    },
+    {
+      "id": "19",
+      "judul": "The Super Mario Bros. Movie",
+      "rating": "",
+      "durasi": "",
+      "tahun": "2023",
+      "genre": "Comedy",
+      "negara": "Amerika",
+      "poster": "tsmbm.jpg",
+      "deskripsi": "Seorang tukang ledeng bernama Mario melakukan perjalanan heroik melalui labirin bawah tanah bersama saudaranya, Luigi. Mereka berdua berusaha menyelamatkan seorang putri yang sedang disandera."
+    },
+    {
+      "id": "20",
+      "judul": "Mencuri Raden Saleh",
+      "rating": "7.3",
+      "durasi": "2j 34m",
+      "tahun": "2022",
+      "genre": "Action",
+      "negara": "Indonesia",
+      "poster": "mrs.jpg",
+      "deskripsi": "Sekelompok mahasiswa dengan nama samaran berencana mencuri lukisan bersejarah, 'Penangkapan Pangeran Diponegoro' karya Raden Saleh. Masing-masing dari mereka punya peranan berbeda dalam misi tersebut. Mampukah mereka mencuri lukisan yang disimpan di Istana Presiden?"
+    },
+    {
+      "id": "21",
+      "judul": "Avengers: Endgame",
+      "rating": "8.4",
+      "durasi": "3j 1m",
+      "tahun": "2019",
+      "genre": "Action",
+      "negara": "Amerika Serikat",
+      "poster": "avg.jpg",
+      "deskripsi": "Avengers: Endgame adalah film superhero yang mengisahkan upaya para Avengers untuk mengembalikan tatanan setelah peristiwa yang menghancurkan dalam Infinity War."
+      },
+      
+      {
+      "id": "22",
+      "judul": "John Wick: Chapter 3 - Parabellum",
+      "rating": "7.5",
+      "durasi": "2j 11m",
+      "tahun": "2019",
+      "genre": "Action",
+      "negara": "Amerika Serikat",
+      "poster": "jhn.jpg",
+      "deskripsi": "John Wick: Chapter 3 - Parabellum melanjutkan petualangan mantan pembunuh bayaran legendaris John Wick yang berusaha melarikan diri setelah dijuluki terlarang."
+      },
+      
+      {
+      "id": "23",
+      "judul": "Mission: Impossible - Fallout",
+      "rating": "7.7",
+      "durasi": "2j 27m",
+      "tahun": "2018",
+      "genre": "Action",
+      "negara": "Amerika Serikat, China, Prancis, Norwegia",
+      "poster": "fallout.jpg",
+      "deskripsi": "Mission: Impossible - Fallout menampilkan agen rahasia Ethan Hunt dalam misi berbahaya untuk menghentikan rencana bencana global yang dapat menghancurkan dunia."
+      },
+      
+      {
+      "id": "24",
+      "judul": "Spider-Man: Far From Home",
+      "rating": "7.5",
+      "durasi": "2j 9m",
+      "tahun": "2019",
+      "genre": "Action",
+      "negara": "Amerika Serikat",
+      "poster": "spider.jpg",
+      "deskripsi": "Spider-Man: Far From Home mengikuti petualangan Peter Parker yang mencoba menjaga identitasnya sambil menghadapi ancaman baru saat berlibur di luar negeri."
+      },
+      
+      {
+      "id": "25",
+      "judul": "Black Widow",
+      "rating": "6.8",
+      "durasi": "2j 13m",
+      "tahun": "2021",
+      "genre": "Action",
+      "negara": "Amerika Serikat",
+      "poster": "black.jpg",
+      "deskripsi": "Black Widow mengisahkan tentang Natasha Romanoff yang menghadapi masa lalunya yang kelam dan mengungkap konspirasi berbahaya yang melibatkan program pelatihan mata-mata."
+      }
+  ]
